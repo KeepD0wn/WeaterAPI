@@ -1,0 +1,10 @@
+C:\Users\gvozd\source\repos\WeaterAPI\Translate\bin\Debug\Translate.exe.config
+C:\Users\gvozd\source\repos\WeaterAPI\Translate\bin\Debug\Translate.exe
+C:\Users\gvozd\source\repos\WeaterAPI\Translate\bin\Debug\Translate.pdb
+C:\Users\gvozd\source\repos\WeaterAPI\Translate\bin\Debug\RestSharp.dll
+C:\Users\gvozd\source\repos\WeaterAPI\Translate\bin\Debug\RestSharp.xml
+C:\Users\gvozd\source\repos\WeaterAPI\Translate\obj\Debug\Translate.csprojAssemblyReference.cache
+C:\Users\gvozd\source\repos\WeaterAPI\Translate\obj\Debug\Translate.csproj.CoreCompileInputs.cache
+C:\Users\gvozd\source\repos\WeaterAPI\Translate\obj\Debug\Translate.csproj.CopyComplete
+C:\Users\gvozd\source\repos\WeaterAPI\Translate\obj\Debug\Translate.exe
+C:\Users\gvozd\source\repos\WeaterAPI\Translate\obj\Debug\Translate.pdb

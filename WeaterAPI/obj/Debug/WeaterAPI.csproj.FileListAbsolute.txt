@@ -1,0 +1,10 @@
+C:\Users\gvozd\source\repos\WeaterAPI\WeaterAPI\bin\Debug\WeaterAPI.exe.config
+C:\Users\gvozd\source\repos\WeaterAPI\WeaterAPI\bin\Debug\WeaterAPI.exe
+C:\Users\gvozd\source\repos\WeaterAPI\WeaterAPI\bin\Debug\WeaterAPI.pdb
+C:\Users\gvozd\source\repos\WeaterAPI\WeaterAPI\obj\Debug\WeaterAPI.csprojAssemblyReference.cache
+C:\Users\gvozd\source\repos\WeaterAPI\WeaterAPI\obj\Debug\WeaterAPI.csproj.CoreCompileInputs.cache
+C:\Users\gvozd\source\repos\WeaterAPI\WeaterAPI\obj\Debug\WeaterAPI.exe
+C:\Users\gvozd\source\repos\WeaterAPI\WeaterAPI\obj\Debug\WeaterAPI.pdb
+C:\Users\gvozd\source\repos\WeaterAPI\WeaterAPI\bin\Debug\RestSharp.xml
+C:\Users\gvozd\source\repos\WeaterAPI\WeaterAPI\obj\Debug\WeaterAPI.csproj.CopyComplete
+C:\Users\gvozd\source\repos\WeaterAPI\WeaterAPI\obj\Debug\WeaterAPI.csproj.Fody.CopyLocal.cache
